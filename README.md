@@ -60,7 +60,6 @@ Dynamic Programming
 Here are some example usages of the data structures and algorithms:
 
 ```swift
-Copy code
 // Example of Binary Search
 let array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 if let index = binarySearch(array, target: 5) {
@@ -89,6 +88,7 @@ Contributions are welcome! If you have any improvements, bug fixes, or new algor
 
 If you have any questions or suggestions, feel free to contact me:
 
-Email: ramonfsk@gmail.com
-GitHub: ramonfsk
+- Email: ramonfsk@gmail.com
+- GitHub: ramonfsk
+
 Thank you for visiting my DSA studies repository!

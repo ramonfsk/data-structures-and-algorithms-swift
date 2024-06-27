@@ -9,9 +9,6 @@ Welcome to my Data Structures and Algorithms (DSA) studies repository! This repo
   - [About](#about)
   - [Data Structures](#data-structures)
   - [Algorithms](#algorithms)
-      - [Sorting Algorithms](#sorting-algorithms)
-      - [Searching Algorithms](#searching-algorithms)
-      - [Dynamic Programming](#dynamic-programming)
   - [Examples](#examples)
   - [Contributing](#contributing)
   - [Contact](#contact)
@@ -37,19 +34,21 @@ The following data structures are implemented in this repository:
 
 The following algorithms are implemented in this repository:
 
-#### Sorting Algorithms
+Sorting Algorithms
   - Bubble Sort
   - Insertion Sort
   - Selection Sort
   - Merge Sort
   - Quick Sort
-#### Searching Algorithms
+
+Searching Algorithms
   - Linear Search
   - Binary Search
   - Graph Algorithms:
   - Depth-First Search (DFS)
   - Breadth-First Search (BFS)
-#### Dynamic Programming
+
+Dynamic Programming
   - Fibonacci Sequence
   - Longest Common Subsequence
   - Other Algorithms:
